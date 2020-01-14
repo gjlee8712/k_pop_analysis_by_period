@@ -49,3 +49,4 @@ aa <- wc_b2010[wc_b2010>1]
 
 wordcloud2(data.frame(names(aa),aa))
 
+aa
